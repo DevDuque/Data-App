@@ -3,14 +3,14 @@
     "title": "Yago Oproprio",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/EventImage.png",
     "type": "musical",
-    "availability": "10/05/2025 à 12/05/2025",
+    "availability": "10/05/2025 à 22/05/2025",
     "link": "https://yagooproprio.com"
   },
   {
     "title": "Romeu e Punheta",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/EventImage.png",
     "type": "teather",
-    "availability": "10/05/2025 à 12/05/2025",
+    "availability": "10/05/2025 à 23/05/2025",
     "link": "https://yagooproprio.com"
   }
 ]
