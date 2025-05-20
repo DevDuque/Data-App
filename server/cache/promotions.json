@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Desconto Especial na Fallen Store",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/PromotionImage.png",
+    "type": "promotion",
+    "availability": "22/05/2025",
+    "link": "https://fallenstore.com"
+  }
+]
