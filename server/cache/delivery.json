@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Lanchonete Saboroso",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/FoodImage.png",
+    "type": "food",
+    "link": "https://saboroso.com"
+  },
+  {
+    "title": "Gás Rápido",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/GasImage.png",
+    "type": "gas",
+    "link": "https://gasrapido.com"
+  },
+  {
+    "title": "Disk Água Mineral",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/UtilsImage.png",
+    "type": "utils",
+    "link": "https://diskagua.com"
+  }
+]
