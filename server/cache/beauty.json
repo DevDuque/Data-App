@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Studio Beleza Total",
+    "description": "Alongamento em gel, blindagem, banho de gel, manicure e pedicure.",
+    "link": "https://studiobelezatotal.com",
+    "category": "salon"
+  },
+  {
+    "title": "Morro Nails",
+    "description": "Especializada em alongamento em gel, blindagem e pedicure.",
+    "link": "https://morronails.com",
+    "category": "manicure"
+  },
+  {
+    "title": "Roger Rod Tattoos",
+    "description": "Desenhos exclusivos a preços promocionais.",
+    "link": "https://rogerrodtattoos.com",
+    "category": "tattoo"
+  },
+  {
+    "title": "Bronze da Praia",
+    "description": "Serviço profissional de bronzeamento natural e artificial.",
+    "link": "https://bronzedapraia.com",
+    "category": "bronze"
+  }
+]
