@@ -1,27 +1,8 @@
 [
   {
-    "title": "Clínica Saúde Bem",
-    "category": "medic",
-    "link": "https://clinicasaudebem.com.br"
-  },
-  {
-    "title": "Consultório Odontológico Sorriso",
-    "category": "dentist",
-    "link": "https://consultoriosorriso.com.br"
-  },
-  {
     "title": "For Quality",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/for.png"
     "category": "gym",
     "link": "https://www.instagram.com/forquallity/"
-  },
-  {
-    "title": "Academia Fit & Strong",
-    "category": "gym",
-    "link": "https://academiafitstrong.com.br"
-  },
-  {
-    "title": "Academia Fit & Strong",
-    "category": "gym",
-    "link": "https://academiafitstrong.com.br"
   }
 ]
