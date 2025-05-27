@@ -29,10 +29,4 @@
     "type": "drink",
     "link": "https://drink.com"
   },
-  {
-    "title": "Distribuidora do Tim",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
-    "type": "drink",
-    "link": "https://drink.com"
-  }
 ]
