@@ -7,6 +7,13 @@
     "link": "https://yagooproprio.com"
   },
   {
+    "title": "Amável Batista",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/EventImage.png",
+    "type": "musical",
+    "availability": "20/06/2025 à 22/06/2025",
+    "link": "https://yagooproprio.com"
+  },
+  {
     "title": "Yago Poprio",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/EventImage.png",
     "type": "teather",
