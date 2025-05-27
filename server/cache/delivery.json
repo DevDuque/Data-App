@@ -11,6 +11,12 @@
     "type": "gas",
     "link": "https://gasrapido.com"
   },
+   {
+    "title": "Gás Rápido",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
+    "type": "gas",
+    "link": "https://gasrapido.com"
+  },
   {
     "title": "Disk Água Mineral",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
