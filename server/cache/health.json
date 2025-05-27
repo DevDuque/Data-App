@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Clínica Saúde Bem",
+    "category": "medic",
+    "link": "https://clinicasaudebem.com.br"
+  },
+  {
+    "title": "Consultório Odontológico Sorriso",
+    "category": "dentist",
+    "link": "https://consultoriosorriso.com.br"
+  },
+  {
+    "title": "Academia Fit & Strong",
+    "category": "gym",
+    "link": "https://academiafitstrong.com.br"
+  }
+]
