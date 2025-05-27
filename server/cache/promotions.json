@@ -2,8 +2,13 @@
    {
     "title": "Anuncie aqui",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/provisorio.jpg",
-    "type": "promotion",
     "availability": "30/06/2025",
     "link": "https://wa.me/5531982371284"
+  }
+   {
+    "title": "For Quality!",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/for.jpg",
+    "availability": "28/05/2025",
+    "link": "https://wa.me/553189825195"
   }
 ]
