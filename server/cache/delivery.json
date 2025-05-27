@@ -10,23 +10,5 @@
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
     "type": "gas",
     "link": "https://wa.me/553136217130"
-  },
-  {
-    "title": "Disk Água Mineral",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
-    "type": "utils",
-    "link": "https://diskagua.com"
-  },
-   {
-    "title": "Construção do Zé",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
-    "type": "construction",
-    "link": "https://construction.com"
-  },
-   {
-    "title": "Distribuidora do Juca",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
-    "type": "drink",
-    "link": "https://drink.com"
-  }
+  }, 
 ]
