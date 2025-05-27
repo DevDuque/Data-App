@@ -6,6 +6,12 @@
     "link": "https://api.whatsapp.com/send/?phone=5531989028677&text&type=phone_number&app_absent=0"
   },
   {
+    "title": "Depósito JN",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/depositojn.jpg",
+    "type": "construction",
+    "link": "https://wa.me/553198508-4662"
+  },
+  {
     "title": "Telegás Morro Alto",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
     "type": "gas",
