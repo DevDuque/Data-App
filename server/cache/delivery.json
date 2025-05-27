@@ -1,9 +1,9 @@
 [
   {
-    "title": "Lanchonete Saboroso",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/FoodImage.png",
+    "title": "Meninos do Açaí",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/acai.jpg",
     "type": "food",
-    "link": "https://saboroso.com"
+    "link": "https://api.whatsapp.com/send/?phone=5531989028677&text&type=phone_number&app_absent=0"
   },
   {
     "title": "Lanchonete Gostoso",
