@@ -1,9 +1,16 @@
 [
   {
-    "title": "Desconto Especial na Fallen Store",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/PromotionImage.png",
+    "title": "Livro: Anjinho Triste",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/Canela.jpg",
     "type": "promotion",
-    "availability": "22/05/2025",
-    "link": "https://fallenstore.com"
+    "availability": "30/06/2025",
+    "link": "https://wa.me/5531995799401"
+  },
+   {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/provisorio,jpg",
+    "type": "promotion",
+    "availability": "30/06/2025",
+    "link": "https://wa.me/5531982371284"
   }
 ]
