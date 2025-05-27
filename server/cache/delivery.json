@@ -6,6 +6,12 @@
     "link": "https://saboroso.com"
   },
   {
+    "title": "Lanchonete Gostoso",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/FoodImage.png",
+    "type": "food",
+    "link": "https://saboroso.com"
+  },
+  {
     "title": "Gás Rápido",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
     "type": "gas",
@@ -31,6 +37,12 @@
   },
    {
     "title": "Distribuidora do Juca",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
+    "type": "drink",
+    "link": "https://drink.com"
+  },
+  {
+    "title": "Distribuidora do Tim",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/UtilsImage.png",
     "type": "drink",
     "link": "https://drink.com"
