@@ -6,22 +6,10 @@
     "link": "https://api.whatsapp.com/send/?phone=5531989028677&text&type=phone_number&app_absent=0"
   },
   {
-    "title": "Lanchonete Gostoso",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/FoodImage.png",
-    "type": "food",
-    "link": "https://saboroso.com"
-  },
-  {
     "title": "Telegás Morro Alto",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
     "type": "gas",
-    "link": "https://api.whatsapp.com/message/CVRWMCJV42X5K1?autoload=1&app_absent=0"
-  },
-   {
-    "title": "Gás Rápido",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/GasImage.png",
-    "type": "gas",
-    "link": "https://gasrapido.com"
+    "link": "https://wa.me/5531983158800"
   },
   {
     "title": "Disk Água Mineral",
