@@ -1,9 +1,9 @@
 [
   {
-    "title": "Meninos do Açaí",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/acai.jpg",
+    "title": "Garage Burguer",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/garage.jpg",
     "type": "food",
-    "link": "https://api.whatsapp.com/send/?phone=5531989028677&text&type=phone_number&app_absent=0"
+    "link": "https://meumenu.app/pedido/garageburguer"
   },
  {
     "title": "Coleguinha Lanches",
