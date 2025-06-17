@@ -6,6 +6,12 @@
     "link": "https://meumenu.app/pedido/garageburguer"
   },
   {
+    "title": "Uai Lanches",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/uai.jpg",
+    "type": "food",
+    "link": "https://wa.me/5531973007708"
+  },
+  {
     "title": "Lua de Gaia",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/luadegaia.jpg",
     "type": "utils",
