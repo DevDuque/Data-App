@@ -1,4 +1,11 @@
-[
+[ 
+  {
+    "title": "Arraiá da Comunidade São Vicente",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/são-viente.jpg",
+    "type": "release",
+    "availability": "20/07/2025",
+    "link": "https://www.facebook.com/photo?fbid=10086565201427513&set=gm.1465084668177626&idorvanity=1017038596315571"
+  },
   {
     "title": "Livro: Anjinho Triste",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/Canela.jpg",
