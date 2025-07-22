@@ -12,12 +12,5 @@
     "type": "release",
     "availability": "30/07/2025",
     "link": "https://wa.me/5531995799401"
-  },
-   {
-    "title": "Futebol dos rapaiz",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/Canela.jpg",
-    "type": "sports",
-    "availability": "20/07/2025",
-    "link": "https://wa.me/5531995799401"
-  }
+  }   
 ]
