@@ -1,4 +1,32 @@
-[ 
+[   
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/teatro.jpg",
+    "type": "teather",
+    "availability": "29/07/2025",
+    "link": "https://wa.me/5531982371284"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/teatro.jpg",
+    "type": "teather",
+    "availability": "29/07/2025",
+    "link": "https://wa.me/5531982371284"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/esportivos.jpg",
+    "type": "sports",
+    "availability": "29/07/2025",
+    "link": "https://wa.me/5531982371284"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/musica.jpg",
+    "type": "musical",
+    "availability": "29/07/2025",
+    "link": "https://wa.me/5531982371284"
+  },
   {
     "title": "Lançamento do MorroAppFalante",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/propaganda1.jpg",
