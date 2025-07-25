@@ -1,4 +1,16 @@
-[
+[  
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/bebidas1.jpg",
+    "type": "drink",
+    "link": "https://wa.me/31982371284"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/bebidas1.jpg",
+    "type": "drink",
+    "link": "https://wa.me/31982371284"
+  },
   {
     "title": "Garage Burguer",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/garage.jpg",
