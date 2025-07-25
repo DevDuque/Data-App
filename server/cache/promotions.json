@@ -1,14 +1,20 @@
 [
    {
-    "title": "Anuncie Aqui!",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/provisorio.jpg",
-    "availability": "30/07/2025",
-    "link": "https://wa.me/553182371284"
+    "title": "Central Vespasiano",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/central1.jpg",
+    "availability": "29/07/2025",
+    "link": "https://www.instagram.com/centralvespasiano/?hl=pt"
   },
    {
     "title": "Depósito JN",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/jn.jpg",
     "availability": "30/07/2025",
     "link": "https://www.instagram.com/jndeposito"
+  },
+   {
+    "title": "Arte Decore",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/artedecore.jpg",
+    "availability": "29/07/2025",
+    "link": "https://www.artedecorebh.com.br/"
   }
 ]
