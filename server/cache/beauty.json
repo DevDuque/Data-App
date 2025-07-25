@@ -1,5 +1,23 @@
 [
   {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/tatuagem.jpg",
+    "link": "https://wa.me/5531982371284",
+    "category": "tatoo"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/tatuagem.jpg",
+    "link": "https://wa.me/5531982371284",
+    "category": "tatoo"
+  },
+  {
+    "title": "Anuncie aqui",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/manicure1.jpg",
+    "link": "https://wa.me/5531982371284",
+    "category": "manicure"
+  },
+  {
     "title": "Camila Martins Tranças",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/camilatrancas.png",
     "link": "https://wa.me/55318656-9266",
