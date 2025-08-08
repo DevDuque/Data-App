@@ -1,4 +1,10 @@
 [
+ {
+    "title": " Luiz Gustabo Hair",
+    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/luizgustavo.jpg",
+    "link": "https://wa.me/5531984907208",
+    "category": "salon"
+  },
   {
     "title": " Dodô duCorte",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/dodo.jpg",
@@ -9,7 +15,7 @@
     "title": "Anuncie aqui",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/tatuagem.jpg",
     "link": "https://wa.me/5531982371284",
-    "category": "tatoo"
+    "category": "tattoo"
   },
   {
     "title": "Anuncie aqui",
