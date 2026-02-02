@@ -1,30 +1,17 @@
 [   
-  {
-    "title": "Festival Real Master",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/real.jpg",
-    "type": "sports",
-    "availability": "10/09/2025",
-    "link": ""
-  },
+ 
   {
     "title": "Anuncie aqui",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/musica.jpg",
     "type": "musical",
-    "availability": "29/07/2025",
+    "availability": "04/02/2026",
     "link": "https://wa.me/5531982371284"
-  },
-  {
-    "title": "Lançamento do MorroAppFalante",
-    "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/propaganda1.jpg",
-    "type": "release",
-    "availability": "25/07/2025",
-    "link": "https://www.facebook.com/groups/1017038596315571"
   },
   {
     "title": " Palco Ocupa+",
     "image": "https://raw.githubusercontent.com/devduque/Data-App/main/assets/images/ocupa.jpg",
     "type": "release",
-    "availability": "21/09/2025",
+    "availability": "02/02/2026",
     "link": "https://www.instagram.com/ocupamais_/"
-  }   
+  }
 ]
